@@ -8,13 +8,14 @@
   />
 </a>
 <p># 💻 About me !</p>
-<p>* 💻 I’m currently working with C#, React and accessibility;</p>
-* 💬 Ask me about programming or anything related to tech!
+<p>* 💻 I’m currently working with C#</p>
+<p>React</p>
+* 💬 I love Technology and to learn!
 * 🌱 I’m currently learning C#;
-* 📫 How to reach me: rodrigocamargo854@gmail.com
+* 📫 contact-me: rodrigocamargo854@gmail.com
  
 ## ⚡ Technologies 
-These are some of the technologies and tools that I work with:
+<p>These are some of the technologies and tools that I work with:</p>
 
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
