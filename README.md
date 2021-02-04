@@ -8,16 +8,16 @@
   />
 </a>
 <p># 💻 About me !</p>
-<p>* 💻 I’m currently working with C#</p>
-<p>React</p>
-* 💬 I love Technology and to learn!
-* 🌱 I’m currently learning C#;
-* 📫 contact-me: rodrigocamargo854@gmail.com
+<p>* 💻 I’m currently working with C# and React</p>
+
+<p>* 💬 I love Technology!</p>
+<p>* 🌱 I’m currently learning C#;</p>
+<p>* 📫 contact-me: rodrigocamargo854@gmail.com</p>
  
 ## ⚡ Technologies 
 <p>These are some of the technologies and tools that I work with:</p>
 
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" /><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" /><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" /> <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" /> <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" /> <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" /> <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" /> <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
 
  
 
