@@ -7,8 +7,8 @@
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
-# 💻 About me !
-* 💻 I’m currently working with C#, React and accessibility;
+<p># 💻 About me !</p>
+<p>* 💻 I’m currently working with C#, React and accessibility;</p>
 * 💬 Ask me about programming or anything related to tech!
 * 🌱 I’m currently learning C#;
 * 📫 How to reach me: rodrigocamargo854@gmail.com
