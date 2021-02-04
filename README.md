@@ -6,12 +6,13 @@
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
+ 
 </a>
 <p># 💻 About me !</p>
 <p>* 💻 I’m currently working with C# and React</p>
 
 <p>* 💬 I love Technology!</p>
-<p>if i dont know , i will to learn</p>
+<p>* 🚀 if i dont know , i will to learn</p>
 <p>* 🌱 I’m currently learning C#;</p>
 <p>* 📫 contact-me: rodrigocamargo854@gmail.com</p>
  
