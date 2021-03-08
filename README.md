@@ -26,5 +26,5 @@
 
  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocamargo854)
 
- 
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@rodrigocamargo)
 
