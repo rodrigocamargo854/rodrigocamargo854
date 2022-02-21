@@ -13,7 +13,7 @@
 <p>* 💻 I’m currently working with C# and React</p>
 
 <p>* 💬 I love Technology!</p>
-<p>* 🚀 if i dont know , i will to learn</p>
+<p>* 🚀When you don’t take any risks, you risk everything </p>
 <p>* 🌱 I’m currently learning C#;</p>
 <p>* 📫 contact-me: rodrigocamargo854@gmail.com</p>
  
