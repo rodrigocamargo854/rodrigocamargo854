@@ -10,7 +10,7 @@
  
 </a>
 <p># 💻 About me !</p>
-<p>* 💻 I’m currently working with C# and React</p>
+<p>* 💻 I’m currently working with React, NextJS, typeScript</p>
 
 <p>* 💬 I love Technology!</p>
 <p>* 🚀When you don’t take any risks, you risk everything </p>
